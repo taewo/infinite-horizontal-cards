@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.cards {
+  border: 1px solid green;
+  height: 50px;
+
+}
+
+.card {
+  border: 1px solid gray;
+}
